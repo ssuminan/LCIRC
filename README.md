@@ -1,4 +1,4 @@
-# Nerfies
+# LCIRC: A Recurrent Compression Approach for Efficient Long-form Context and Query Dependent Modeling in LLMs
 
 This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
 

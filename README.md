@@ -1,8 +1,7 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
   <img src="assets/ku-logo.png" alt="korea" height="50">
-  <a href="https://miil.korea.ac.kr/" target="_blank">
-    <img src="assets/miil.png" alt="miil" height="50">
-  </a>
+  <img src="assets/miil.png" alt="miil" height="54">
+  <img src="assets/Google_2015_logo.svg.webp" alt="google" height="50">
 </div>
 
 # LCIRC: A Recurrent Compression Approach for Efficient Long-form Context and Query Dependent Modeling in LLMs (NAACL 2025)

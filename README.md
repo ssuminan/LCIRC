@@ -18,11 +18,6 @@ We introduce LCIRC, a method for efficiently extending the context length of pre
 
 For further details, please check out our [paper](https://arxiv.org/pdf/2502.06139) and our [project page](https://ssuminan.github.io/LCIRC/).
 
-## :fire:TODO
-- [x] Release the code
-- [x] Release the dataset
-- [ ] Pre-trained weights
-
 ## Installation
 ```bash
 docker pull pytorch/pytorch:2.2.1-cuda12.1-cudnn8-devel
